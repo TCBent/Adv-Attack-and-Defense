@@ -12,5 +12,5 @@ Se sube la segunda y final sección del proyecto que consta de la transferencia 
 ## Apoyo 
 
 
-[Transferencia entre modelos y ejemplos]{https://drive.google.com/file/d/1v2QN7t62rcdwLh3Fh2w7ycK3_u4CWr18/view?usp=sharing}
-[Notebook original de CIFAR10 del repositorio]{https://drive.google.com/file/d/1ivazG7vTK7bnepumM4vePM5CrH-gpbde/view?usp=sharing}
+[Transferencia entre modelos y ejemplos](https://drive.google.com/file/d/1v2QN7t62rcdwLh3Fh2w7ycK3_u4CWr18/view?usp=sharing)
+[Notebook original de CIFAR10 del repositorio](https://drive.google.com/file/d/1ivazG7vTK7bnepumM4vePM5CrH-gpbde/view?usp=sharing)
